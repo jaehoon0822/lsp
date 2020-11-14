@@ -5,8 +5,8 @@
 ## File 다루기 ( basic )
 
 - [x] File 열기 / 닫기
-- [ ] File Position
-- [ ] File 읽고 쓰기
+- [x] File Position
+- [x] File 읽고 쓰기
 	
 ## File 다루기 ( low-level )
 
