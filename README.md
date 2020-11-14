@@ -1,10 +1,11 @@
 # linux-system-programing
 > 인프런 리눅스 시스템 프로그래밍 - 이론과 실습 ( 공부!! )
+>
 
 ## File 다루기 ( basic )
 ---
 
-- [ ] File 열기 / 닫기
+- [x] File 열기 / 닫기
 - [ ] File Position
 - [ ] File 읽고 쓰기
 	
